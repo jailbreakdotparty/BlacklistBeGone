@@ -1,5 +1,8 @@
 # BlacklistBeGone
 Enterprise app blacklist remover using SparseRestore.
+<p align="left">
+  <strong><a href="https://discord.gg/XPj66zZ4gT">Join our Discord!</a></strong>
+</p>
 
 ## Disclaimers
 **Version support**
