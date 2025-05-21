@@ -1,23 +1,16 @@
 # BlacklistBeGone
-Enterprise app blacklist remover using SparseRestore.
+Enterprise app blacklist remover using SparseRestore, for iOS 17.0 - iOS 18.0.1.
 <p align="left">
   <strong><a href="https://discord.gg/XPj66zZ4gT">Join our Discord!</a></strong>
 </p>
 
-## Disclaimers
-**Version support**
+>[!WARNING]
+>Make a backup before using this tool **JUST IN CASE.** We are not responsible for any damages that this may cause to your device, so use at your own risk.
+>[!NOTE]
+>If your device is on a version newer than iOS 18.0.1, you will not be able to use this tool, and you never will be unless another exploit similar to SparseRestore is released. 
 
-Supports iOS 17.0-17.7 and iOS 18.0-18.1 beta 4.
-
-Newer versions will never be supported (unless another file write exploit drops).
-
-**For content creators**
-
-We understand that clickbaiting with flashy thumbnails and misleading titles is the only way you know how to make your channel grow and the algorithm and blah blah blah.
-
-However, we also don't enjoy dealing with people asking why it's not working on the latest iOS version because they saw your video on their recommended and couldn't say no to a big red arrow.
-
-If you're gonna make content about our work, we can't stop you. But please don't be clickbaity about it. 
+## For content creators
+* If and when you make content on this tool, please make your thumbnails/titles accurate and not clickbaity. We understand you want to grow your audience, but we also do not like being bombarded with complaints about how it doesn't work on a version newer than iOS 18.0.1. We won't stop you from making content about this tool, and in fact we encourage it, but please don't mislead others. 
 
 ## Usage
 1. Disable Find My on your device. You can re-enable it when you're done.
