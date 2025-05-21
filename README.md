@@ -6,6 +6,7 @@ Enterprise app blacklist remover using SparseRestore, for iOS 17.0 - iOS 18.0.1.
 
 >[!WARNING]
 >Make a backup before using this tool **JUST IN CASE.** We are not responsible for any damages that this may cause to your device, so use at your own risk.
+
 >[!NOTE]
 >If your device is on a version newer than iOS 18.0.1, you will not be able to use this tool, and you never will be unless another exploit similar to SparseRestore is released. 
 
