@@ -36,8 +36,8 @@ def get_nice_ios_version_string():
     
 def menu():
     print(f"""
-               BlacklistBeGone v1.0
-              Brought to you by Skadz
+               BlacklistBeGone v1.1
+                by jailbreak.party
           
              Special thanks to Mineek
 
@@ -74,8 +74,9 @@ def menu():
                 backup.ConcreteFile("", "SysContainerDomain-../../../../../../../../var/protected/trustd/private/ocspcache.sqlite3", contents=b''),
                 backup.ConcreteFile("", "SysContainerDomain-../../../../../../../../var/protected/trustd/private/ocspcache.sqlite3-shm", contents=b''),
                 backup.ConcreteFile("", "SysContainerDomain-../../../../../../../../var/protected/trustd/private/ocspcache.sqlite3-wal", contents=b''),
+                backup.ConcreteFile("", "SysContainerDomain-../../../../../../../../crash_on_purpose", contents=b'')
             ])
-            perform_restore(back, reboot=False)
+            perform_restore(back, reboot=True)
         elif option == 0:
             print("Thanks for using BlacklistBeGone!")
             exit()
